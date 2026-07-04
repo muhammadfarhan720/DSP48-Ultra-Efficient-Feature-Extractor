@@ -1,4 +1,4 @@
-
+Authors: Farhan , Rashmi
 
 **Ultra EnergyEfficient Neuromorphic Processor for ECG Datasets**
 
